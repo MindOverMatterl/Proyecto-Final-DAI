@@ -1,0 +1,53 @@
+/* Estilos para el footer en general */
+.footer {
+    background-color: #343a40; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 20px; /* Espaciado interior */
+    position: absolute; /* Fija el footer en una posición absoluta */
+    bottom: 0; /* Lo coloca en la parte inferior de la página */
+    width: 100%; /* Ocupa todo el ancho de la página */
+}
+
+/* Estilos específicos para el texto "Tu nombre" */
+.footer-text {
+    margin-top: 10px; /* Espaciado superior para el texto */
+}
+
+
+
+/* Estilos para el header en general */
+header {
+    background-color: #007bff; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 20px; /* Espaciado interior */
+}
+
+body {
+    font-family: 'Nunito', sans-serif; /* Usar la fuente Nunito, y si no está disponible, usar una fuente genérica sans-serif */
+}
+
+
+/* Estilos para el título en el header */
+header h1 {
+    margin: 0; /* Elimina el margen predeterminado del título */
+}
+
+/* Estilos para la barra de navegación */
+.navbar {
+    background-color: #343a40; /* Color de fondo */
+}
+
+/* Estilos para los enlaces en la barra de navegación */
+.navbar a {
+    color: white !important; /* Color del texto de los enlaces */
+}
+
+/* Estilos para los enlaces activos en la barra de navegación */
+.navbar a:hover {
+    background-color: #007bff; /* Color de fondo al pasar el cursor */
+}
+
+/* Estilos para el contenedor principal */
+.container {
+    margin-top: 0px; /* Espaciado superior */
+}
